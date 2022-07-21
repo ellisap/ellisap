@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Anna Pruett Ellis
-- 👀 I’m interested in USG user experience & web content development
+- 👀 I’m a Digital Information Specialist with the National Cancer Institute at NIH. I advocate for user experience & digital strategy.
 - 📫 Reach me at anna.ellis@nih.gov or on Twitter @ellisap
