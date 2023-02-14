@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Anna Pruett Ellis
-- 👀 I’m a Digital Information Specialist with the National Cancer Institute at NIH. I advocate for user experience & digital strategy.
+- 👀 I’m the acting Web & Multimedia Branch Chief in the Office of Communications and Public Liason at the National Cancer Institute at NIH. I advocate for user experience & digital strategy, and lead the team that develops and supports our Drupal-powered public website platform.
 - 📫 Reach me at anna.ellis@nih.gov or on Twitter @ellisap
