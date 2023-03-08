@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Anna Pruett Ellis
-- 👀 I’m the acting Web & Multimedia Branch Chief in the Office of Communications and Public Liaison at the National Cancer Institute at NIH. I advocate for user experience & digital strategy, and lead the team that develops and supports our Drupal-powered public website platform.
+- 👀 I’m the acting Web & Multimedia Branch Chief in the Office of Communications and Public Liaison at the National Cancer Institute at NIH. I advocate for user experience & digital strategy, and serve as the federal lead on the team that develops and supports NCI's Drupal-powered public website platform.
 - 📫 Reach me at anna.ellis@nih.gov or on Twitter @ellisap
